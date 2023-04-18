@@ -2,15 +2,17 @@
 
 ### Architect by university, Frontend Developer in training. Based in South Africa 🇿🇦
 
-I studied Architecture and Urbanism at Feevale University in Brazil with a semester overseas at Politecnico di Milano, Italy. I have been working in the Architecture field for over 7 years. 
-I have also been on a journey learning new skills and have discovered a great interest in Frontend Development and UI Design. My learning journey so far has been through Free Code Camp, Scrimba and Udemy and I intend on keeping on learning.
-I have a great interest design, innovation, politics and cultural issues. Good design makes me happy and I believe that good design can help society to live better.
+
+I completed my studies in Architecture and Urbanism at Feevale University in Brazil, including one semester abroad at Politecnico di Milano in Italy. I have been working in the Architecture field for over 7 years.
+I have also been on a journey learning new skills and discovered a great interest in Frontend Development and UI Design. So far, I have pursued my learning through various platforms, including Free Code Camp, Scrimba and Udemy and I intend to keep on learning.
+Good design makes me happy and I believe it has the ability to improve people's experiences.
+My work and personal experiences, especially moving countries and becoming a mother, have enhanced my adaptability, resilience, and perseverance to push through challenging situations.
 
 Some facts about me:
 - I was born in the South of Brazil and grew up there 🇧🇷
 - I lived in Italy for a while 🇮🇹 
 - I now live in South Africa with my family 🇿🇦
-- I am fluent in Brazilian Portuguese, English and I also speak some Italian.
+- I am fluent in Brazilian Portuguese, English and I also speak Italian.
 
 
 ## Connect with me:
