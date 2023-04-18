@@ -9,7 +9,7 @@ Good design makes me happy and I believe it has the ability to improve people's 
 My work and personal experiences, especially moving countries and becoming a mother, have enhanced my adaptability, resilience, and perseverance to push through challenging situations.
 
 Some facts about me:
-- I was born in the South of Brazil and grew up there 🇧🇷
+- I was born and grew up in the south of Brazil 🇧🇷
 - I lived in Italy for a while 🇮🇹 
 - I now live in South Africa with my family 🇿🇦
 - I am fluent in Brazilian Portuguese, English and I also speak Italian.
