@@ -4,7 +4,7 @@
 
 
 I completed my studies in Architecture and Urbanism at Feevale University in Brazil, including one semester abroad at Politecnico di Milano in Italy. I have been working in the Architecture field for over 7 years.
-I have also been on a journey learning new skills and discovered a great interest in Frontend Development and UI Design. So far, I have pursued my learning through various platforms, including Free Code Camp, Scrimba and Udemy and I intend to keep on learning.
+I have also been on a journey learning new skills and discovered a great interest in Frontend Development and UI Design. So far, I have pursued my learning through various platforms, including Free Code Camp and Udemy. I have recently completed the Frontend Developer Career Path through Scrimba and I intend to keep on learning. 
 Good design makes me happy and I believe it has the ability to improve people's experiences.
 My work and personal experiences, especially moving countries and becoming a mother, have enhanced my adaptability, resilience, and perseverance to push through challenging situations.
 
